@@ -1,0 +1,17 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all they need to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: bmi calculator
+PURPOSE OF PROJECT: to practice if else if
+VERSION or DATE: 9/6/22
+AUTHORS: Amr Elhady
+
+**************PMR**********
+<+s>: was able to practice if else if and see the real world application, learned how to convert 
+
+<-s>: no downsides to this program thankfully
+******************************
+itf: will use the if else if alot

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GradesV2
+comment0.text=\n\ class\ is\ used\ to\ calculate\ a\ student's\ test\ score\ average\n\n\ @author\ Amr\ Elhady\n\ @version\ 9/3/22\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

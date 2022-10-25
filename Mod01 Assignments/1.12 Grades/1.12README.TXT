@@ -1,0 +1,19 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all they need to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: GradesV2
+PURPOSE OF PROJECT: to practice using casting and shortcuts
+VERSION or DATE: 9/3/22
+AUTHORS:Amr Elhady
+
+***************PMR******************
+<+s>: was able to understand real life applications of programming. was also nice to refer to old lessons and tie methods together
+
+<-s>: had issues with displaying the proper Total Points because of order of code. 
+Had to change around order of statements until it worked. Also, im not sure if I used casting properly.
+
+************************************
+in the future: I will practice casting more, and use proper order

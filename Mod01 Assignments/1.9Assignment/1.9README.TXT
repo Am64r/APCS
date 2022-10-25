@@ -1,0 +1,17 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all they need to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE:Calculations V6
+PURPOSE OF PROJECT: to practice using int and double data types
+VERSION or DATE: 9/1/22
+AUTHORS: Amr Elhady
+
+**************PMR***************
+<+s>: was interesting to reuse variables in different arithmetic applications
+
+<-s>: forgot to add a concatenation at times, almost forgot step 11
+********************************
+in the future: will remember to add concatenations and semicolons, will read instructions better

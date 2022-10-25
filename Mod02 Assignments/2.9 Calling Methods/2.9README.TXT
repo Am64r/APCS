@@ -1,0 +1,18 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all they need to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: Calling Methods
+PURPOSE OF PROJECT: to practice calling methods
+VERSION or DATE: 9/16/22
+AUTHORS: Amr Elhady
+
+*****************PMR************
+<+s>: method calling makes code more versatile and 
+
+<-s>: was not sure if i was supposed to brute force the last part by writing System.out.println("Ten divided by fire equals " + answer); 
+because it is not a reuseable line of code and the string will need to be changed with each change of x and y
+*****************
+itf: I will use method calling 

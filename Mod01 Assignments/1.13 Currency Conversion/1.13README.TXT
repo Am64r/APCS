@@ -1,0 +1,17 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all they need to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: Currency Conversion
+PURPOSE OF PROJECT: To convert forein currencies and calculate trip expenses
+VERSION or DATE: 9/4/22 
+AUTHORS: Amr Elhady
+
+***********************PMR********************
+<+s>: was able to think really hard and find a solution to many bugs
+
+<-s>:Had a hard time figuring out some of the expressions and calculations. Took me a while to figure out how to use the modulus operator
+**********************************************
+In the future: I will definetly refer back to this project because there is a lot of valuable information.

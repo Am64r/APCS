@@ -1,0 +1,19 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all they need to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: Online Purchases
+PURPOSE OF PROJECT: to practice using all topics in module 2
+VERSION or DATE: 9/17/22
+AUTHORS: Amr Elhady
+
+*****************PMR***********************
+<+s>: understood the code behind common online transactions
+
+<-s>: not sure if i was supposed to use the java.util.Random
+********************************
+ITF: I will want to learn how this information can be stored, if the order number 
+can be used to look up the transaction, how the card number transfers to making an 
+actual payment, etc.

@@ -1,0 +1,17 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all they need to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: 2.3 Math Class Methods
+PURPOSE OF PROJECT: to practice using Math. methods
+VERSION or DATE: 9/7/22
+AUTHORS: Amr Elhady
+
+****************PMR**********************
+<+S>: very interesting to see that there are a vast source of tools that can be easily implemented into ones code
+
+<-s>: took some time to understand how to alter the range of the math.random() method
+****************************************
+in the future: I will be using api's alot with many different programs
