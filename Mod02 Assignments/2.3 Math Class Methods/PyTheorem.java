@@ -32,8 +32,6 @@ public class PyTheorem
         
         System.out.println();
         
-        System.out.println('8' + '2');
-        System.out.println("128" + "32");
     }
 
 }
