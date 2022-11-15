@@ -1,0 +1,16 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all they need to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: Family Structure
+PURPOSE OF PROJECT: to learn how to read txt files
+VERSION or DATE: 11/13/2022
+AUTHORS: Amr Elhady
+*************PMR**********
+<+S>: such an important skill to have since most data is stored externally
+
+<-S>: i wonder if there was a better way to count the total number of combinations
+************
+ITF: definitely will use
