@@ -1,0 +1,18 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all they need to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: TDEE
+PURPOSE OF PROJECT: to practice conditional statements and logical operators
+VERSION or DATE: 11/6/2022
+AUTHORS: Amr Elhady
+
+***********PMR*******
+<+s>: was very interesting to consolidate code using different logical operators
+
+<-s>: was repetitive at times
+
+*****
+itf: will use logical operators
