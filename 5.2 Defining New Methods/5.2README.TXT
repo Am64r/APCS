@@ -1,0 +1,17 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all they need to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: PlanetGravity
+PURPOSE OF PROJECT: to create custom mathematical methods
+VERSION or DATE: 12/25/22
+AUTHORS: Amr Elhady
+
+***********PMR*************
++s: a very versatile way to create methods that can easily be recycled
+
+-s: I wasnt able to format the long decimals properly
+**************
+itf: I will research the best way to deal with decimals

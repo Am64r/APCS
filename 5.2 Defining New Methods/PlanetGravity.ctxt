@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PlanetGravity
+comment0.text=\n\ To\ display\ planetary\ data\ using\ custom\ methods\n\n\ @author\ Amr\ Elhady\n\ @version\ 12/27/22\n
+comment1.params=
+comment1.target=void\ header()
+comment2.params=M\ d
+comment2.target=double\ surfaceGravity(double,\ double)
+comment3.params=planet\ M\ d
+comment3.target=void\ planetData(java.lang.String,\ double,\ double)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=AtheleteV3
+comment0.text=\n\ To\ calculate\ different\ aspects\ of\ an\ athelete's\ training\n\n\ @author\ Amr\ Elhady\n\ @version\ 1/6/23\n
+comment1.params=
+comment1.target=AtheleteV3()
+comment2.params=MET\ kg
+comment2.target=double\ calcCals(double,\ double)
+comment3.params=kg\ pastkg
+comment3.target=double\ weightLost(double,\ double)
+numComments=4

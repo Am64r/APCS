@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GradesV8Tester
+comment0.text=\n\ To\ use\ constructors\ to\ create\ variable\ objects\n\n\ @author\ Amr\ Elhady\n\ @version\ 1/15/23\n
+comment1.params=
+comment1.target=void\ header()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

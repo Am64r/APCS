@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=AtheleteTesterV3
+comment0.text=\n\ To\ display\ different\ aspects\ of\ an\ athelete's\ training\n\n\ @author\ Amr\ Elhady\n\ @version\ 1/6/23\n
+comment1.params=n\ calories\ activity\ weightLost
+comment1.target=void\ printAthelete(java.lang.String,\ double,\ java.lang.String,\ double)
+comment2.params=name\ MET\ kg\ activity\ pastkg
+comment2.target=void\ AtheleteInfo(java.lang.String,\ double,\ double,\ java.lang.String,\ double)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

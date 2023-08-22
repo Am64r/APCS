@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=GradesV8
+comment0.text=\n\ To\ create\ methods\ for\ the\ GradesV8\ class\n\n\ @author\ Amr\ Elhady\n\ @version\ 1/15/23\n
+comment1.params=name\ grade1\ grade2
+comment1.target=GradesV8(java.lang.String,\ double,\ double)
+comment10.params=g1\ g2
+comment10.target=double\ calcAverage(double,\ double)
+comment2.params=name
+comment2.target=GradesV8(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=double\ getGrade1()
+comment5.params=
+comment5.target=double\ getGrade2()
+comment6.params=name
+comment6.target=void\ setName(java.lang.String)
+comment7.params=grade1
+comment7.target=void\ setGrade1(double)
+comment8.params=grade2
+comment8.target=void\ setGrade2(double)
+comment9.params=
+comment9.target=double\ calcAverage()
+numComments=11

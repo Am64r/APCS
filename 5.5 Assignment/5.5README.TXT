@@ -1,0 +1,16 @@
+------------------------------------------------------------------------
+This is the project README file. Here, you should describe your project.
+Tell the reader (someone who does not know anything about this project)
+all they need to know. The comments should usually include at least:
+------------------------------------------------------------------------
+
+PROJECT TITLE: AtheleteV3
+PURPOSE OF PROJECT: to create and display methods using implementation class
+VERSION or DATE: 1/6/23
+AUTHORS: Amr Elhady
+********PMR****
++S: very versatile method of calculating data
+
+-S: there are a few things i can make more efficient
+************
+itf: will use again
